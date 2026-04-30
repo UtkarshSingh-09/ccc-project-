@@ -1,0 +1,45 @@
+{
+  "totalResources": 100,
+  "locations": [
+    {
+      "id": "loc-1",
+      "name": "Downtown City Center",
+      "resourcesRequired": 40,
+      "severity": 8,
+      "peopleAffected": 500,
+      "distance": 15
+    },
+    {
+      "id": "loc-2",
+      "name": "Northside Suburbs",
+      "resourcesRequired": 30,
+      "severity": 6,
+      "peopleAffected": 300,
+      "distance": 25
+    },
+    {
+      "id": "loc-3",
+      "name": "East River Slums",
+      "resourcesRequired": 50,
+      "severity": 9,
+      "peopleAffected": 800,
+      "distance": 40
+    },
+    {
+      "id": "loc-4",
+      "name": "West End Medical Camp",
+      "resourcesRequired": 20,
+      "severity": 10,
+      "peopleAffected": 200,
+      "distance": 5
+    },
+    {
+      "id": "loc-5",
+      "name": "South Valley Villages",
+      "resourcesRequired": 35,
+      "severity": 7,
+      "peopleAffected": 400,
+      "distance": 60
+    }
+  ]
+}
